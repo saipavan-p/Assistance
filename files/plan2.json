@@ -1,0 +1,542 @@
+{
+    "tables": [
+        [
+            {
+                "0": "PLAN FEATURES\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Primary Care Physician Selection\nNot required\nNot required",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Deductible (per calendar year)\n$1,000 Individual\n$2,000 Individual\n$2,000 Family\n$6,000 Family",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Unless otherwise indicated, the deductible must be met before benefits can be paid.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "All covered expenses accumulate separately toward the network and out-of-network Deductible.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "As indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "No one family member may contribute more than the individual deductible amount to the family deductible.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Member Coinsurance\n0%\n50%\n(applies to all expenses unless otherwise stated)",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Out-of-Pocket (OOP) Maximum\n$4,000 Individual\n$12,000 Individual\n(per calendar year, includes deductible)\n$8,000 Family\n$36,000 Family",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "All covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Pharmacy expenses apply towards the Out-of-Pocket Maximum .\nOnly those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any\npenalty amounts) may be used to satisfy the out-of-pocket maximum.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "No one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket\nmaximum.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Payment for Out-of-Network Care*\nNot applicable\nProfessional: 105% of Medicare\nFacility:  140% of Medicare",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Certification Requirements",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Certification for certain types of out-of-network care must be obtained to avoid a reduction in benefits paid for that care.\nCertification for Hospital Admissions, Treatment Facility Admissions, Convalescent Facility Admissions, Home Health Care and\nHospice Care is required - excluded amount applied separately to each type of expense is $400 per occurrence",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Referral Requirement\nNot Required\nNot applicable",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "PHYSICIAN SERVICES\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Office Visits to Non-Specialist\n$25 copay deductible waived\n50% after deductible",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Includes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or\ninjury.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Telemedicine Consultations to Non-Specialist",
+                "1": "$25 copay deductible waived",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Virtual Primary Care Telemedicine Provider\nConsultations\nIncludes basic medical and preventive health care\nservices for persons 18 years of age or older.\nTelemedicine preventive screening and counseling\nservices are subject to the preventive care benefit.",
+                "1": "Covered in full",
+                "2": "Not Covered"
+            },
+            {
+                "0": "Non-Specialist Telemedicine Provider\nConsultations",
+                "1": "Covered in full",
+                "2": "Not Covered"
+            },
+            {
+                "0": "Specialist Office Visits",
+                "1": "$75 copay deductible waived",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Telemedicine Consultations to Specialist",
+                "1": "$75 copay deductible waived",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Specialist Telemedicine Provider Consultations",
+                "1": "Covered in full",
+                "2": "Not Covered"
+            },
+            {
+                "0": "Walk-in Clinics",
+                "1": "Designated Walk-in Clinics:\nCovered in full\nAll Other Network Providers:\n$25 copay deductible waived",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Walk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or\nother retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,\nemergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered\nto be walk-in clinics.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Prenatal Maternity\nCovered in full\n50% after deductible",
+                "1": "",
+                "2": ""
+            }
+        ],
+        [
+            {
+                "0": "Maternity - Delivery  and Post-Partum Care",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Allergy Testing (given by a physician)",
+                "1": "Member cost sharing is based on\nthe type of service performed and\nthe place rendered.",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Allergy Injections (not given by a physician)",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "PREVENTIVE CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Preventive care services are covered in accordance with Health Care Reform.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Routine Adult Physical Exams and Immunizations\nLimited to 1 exam every 12 months.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Well Child Exams and Immunizations\nProvides coverage for 7 exams in the first year of life; 3\nexams in the second year; 3 exams in the third year;\nand 1 exam per 12 months from age 3 to age 22.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Routine Gynecological Exams\nIncludes routine tests and related lab fees. Limited to 1\nexam every 12 months.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Routine Mammograms",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Women's Health\nIncludes: Screening for gestational diabetes, HPV\n(Human Papillomavirus) DNA testing, counseling for\nsexually transmitted infections, counseling and\nscreening for Human Immunodeficiency Virus,\nscreening and counseling for interpersonal and\ndomestic violence, breastfeeding support, supplies,\nand counseling. Contraceptive methods, sterilization\nprocedures, patient education and counseling.\nLimitations may apply.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Routine Digital Rectal Exam /\nProstate-Specific Antigen Test\nRecommended: For covered males age 40 and over.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Colorectal Cancer Screening\nRecommended: For all members age 45 and over.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "VISION SERVICES\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Routine Eye Exams (Refraction)\nCovered in full\n50% after deductible\nCoverage is limited to 1 exam every 12 months.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "DIAGNOSTIC PROCEDURES\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Diagnostic Laboratory",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Diagnostic X-ray (except for Complex Imaging\nServices)",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Diagnostic X-ray for Complex Imaging Services\n(Including, but not limited to, MRI, MRA, PET and CT\nScans)",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "EMERGENCY MEDICAL CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Urgent Care Provider",
+                "1": "$75 copay deductible waived",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Non-Urgent Use of Urgent Care Provider",
+                "1": "Not covered",
+                "2": "Not covered"
+            },
+            {
+                "0": "Emergency Room\nCopay waived if admitted.",
+                "1": "$500 copay deductible waived",
+                "2": "Paid as in-network"
+            },
+            {
+                "0": "Non-Emergency Care in an Emergency Room",
+                "1": "Not covered",
+                "2": "Not covered"
+            },
+            {
+                "0": "Emergency Use of Ambulance",
+                "1": "Covered in full after deductible",
+                "2": "Paid as in-network"
+            }
+        ],
+        [
+            {
+                "0": "Non-Emergency Use of Ambulance\nCovered in full after deductible\nPaid as in-network",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "HOSPITAL CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Inpatient Coverage\nIncluding maternity (delivery and postpartum care).\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Surgery\nProvided in an outpatient hospital department or\nfreestanding surgical facility.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Transplants\nCoverage is limited to IOE facilities only.",
+                "1": "Covered in full after deductible",
+                "2": "Not covered"
+            },
+            {
+                "0": "BEHAVIORAL HEALTH SERVICES\nNETWORK CARE\nOUT-OF-NETWORK CARE\n(MENTAL HEALTH and SUBSTANCE RELATED\nDISORDERS)",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Inpatient Services\n(including inpatient residential treatment facility)\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Office Visits\nThe member cost sharing applies to all covered\nbenefits incurred during a member's outpatient visit.",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Physician or Behavioral Health Provider\nTelemedicine Consultations",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Telemedicine Provider Consultations",
+                "1": "Covered in full",
+                "2": "Not Covered"
+            },
+            {
+                "0": "Other Outpatient Services\n(Includes partial hospitalization treatment, intensive\noutpatient program and behavioral therapies.)",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "OTHER SERVICES AND PLAN DETAILS\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Skilled Nursing Facility\nCoverage is limited to 60 days per year.\nThe member cost sharing applies to all covered\nbenefits incurring during a member's inpatient stay\nNetwork and Out-of-Network combined.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Home Health Care\nCoverage is limited to 60 visits per year.\nNetwork and Out-of-Network combined; 1 visit equals a\nperiod of 4 hours or less.\nNetwork and Out-of-Network combined.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Infusion Therapy\nProvided in the home or physician's office.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Infusion Therapy\nProvided in the outpatient hospital department of\nfreestanding facility.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Gene-Based, Cellular and Other Innovative\nTherapies (GCIT)\nCoverage is limited to GCIT-designated facilities only.",
+                "1": "Cost sharing is based on the type of\nservice and where it is performed.",
+                "2": "Not Covered"
+            },
+            {
+                "0": "Inpatient Hospice Care\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Hospice Care\nThe member cost sharing applies to all covered\nbenefits incurred during a member's outpatient visit.",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            }
+        ],
+        [
+            {
+                "0": "Outpatient Short-Term Rehabilitation - Physical\nTherapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.",
+                "1": "$75 copayment after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Short-Term Rehabilitation -\nOccupational Therapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.",
+                "1": "$75 copayment after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Short-Term Rehabilitation - Speech\nTherapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.",
+                "1": "$75 copayment after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Outpatient Chiropractic\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.",
+                "1": "$75 copayment after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Habilitative Physical, Occupational and Speech\nTherapy",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Autism Behavioral Therapy",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Autism Applied Behavior Analysis",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Autism Physical, Occupational and Speech\nTherapy",
+                "1": "Covered in full after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Acupuncture\nCoverage is limited to 10 visits per year.",
+                "1": "$25 copay deductible waived",
+                "2": "Not covered"
+            },
+            {
+                "0": "Durable Medical Equipment",
+                "1": "50% after deductible",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Diabetic Supplies not obtainable at a pharmacy",
+                "1": "Covered same as any other medical\nexpense.",
+                "2": "Covered same as any other medical\nexpense."
+            },
+            {
+                "0": "Mouth, Jaws and Teeth\n(oral surgery procedures, medical in nature)",
+                "1": "Cost sharing is based on the type of\nservice and where it is performed.",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Bariatric Surgery",
+                "1": "Not Covered",
+                "2": "Not Covered"
+            },
+            {
+                "0": "FAMILY PLANNING\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Infertility Treatment\nCovered only for the diagnosis and treatment of the\nunderlying medical condition.",
+                "1": "Cost sharing is based on the type of\nservice and where it is performed.",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Vasectomy",
+                "1": "Member cost sharing is based on\nthe type of service performed and\nthe place rendered.",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "Tubal Ligation",
+                "1": "Covered in full",
+                "2": "50% after deductible"
+            },
+            {
+                "0": "PHARMACY DEDUCTIBLE\nNETWORK CARE\nOUT-OF-NETWORK CARE",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Prescription drug calendar year deductible\nNot Applicable under both the\nNot Applicable under both the\nnetwork care and out-of-network\nnetwork care and out-of-network\ncolumns.\ncolumns.",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "PHARMACY - PRESCRIPTION\nNETWORK CARE\nOUT-OF-NETWORK CARE\nDRUG BENEFITS",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Generic Drugs",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Retail Generic - T1A: $3 copayment\n50%\nGeneric - T1: $10 copayment",
+                "1": "",
+                "2": ""
+            },
+            {
+                "0": "Mail Order Generic - T1A: $6 copayment\nNot covered\nGeneric - T1: $20 copayment",
+                "1": "",
+                "2": ""
+            }
+        ],
+        [
+            {
+                "0": "Preferred Brand Drugs"
+            },
+            {
+                "0": "Retail\n$45 copayment\n50%"
+            },
+            {
+                "0": "Mail Order\n$90 copayment\nNot covered"
+            },
+            {
+                "0": "Non-Preferred Generic and Brand Drugs"
+            },
+            {
+                "0": "Retail\n$75 copayment\n50%"
+            },
+            {
+                "0": "Mail Order\n$150 copayment\nNot covered"
+            },
+            {
+                "0": "Specialty Drugs"
+            },
+            {
+                "0": "Preferred Specialty\n20% up to $250\nNot covered"
+            },
+            {
+                "0": "Non-Preferred Specialty 40% up to $500\nNot covered"
+            },
+            {
+                "0": "Pharmacy Day Supply and Requirements"
+            },
+            {
+                "0": "Retail\nUp to 30 day supply from the Aetna National Pharmacy Network"
+            },
+            {
+                "0": "Mail Order\n31-90 day supply from CVS Caremark Mail Service Pharmacy\u2122 or a CVS Pharmacy"
+            },
+            {
+                "0": "Maintenance Choice\u00ae with Opt Out -  After two retail fills, members must choose to fill a 90-day supply of their maintenance\ndrugs at CVS Caremark Mail Service Pharmacy\u2122 or at a CVS retail pharmacy. If the member wants to continue to fill their 30-day\nsupply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do not notify us\nthat they want to opt out of the 90-day supply at a CVS Pharmacy, they\u2019ll be responsible for 100 percent of their medication cost.\nThe member may call us any time, even from the pharmacy, to let us know that they intend to opt out of the benefit."
+            },
+            {
+                "0": "Specialty- Up to a 30 day supply\nFirst prescription fill at any retail or specialty pharmacy. Subsequent fills must be through the Aetna Specialty Performance\nNetwork."
+            },
+            {
+                "0": "True Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a\nmanufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will\nnot apply towards the Deductible or Out-of-Pocket Maximum."
+            }
+        ]
+    ],
+    "paragraphs": [
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nPLAN FEATURES\nNETWORK CARE\nOUT-OF-NETWORK CARE\nPrimary Care Physician Selection\nNot required\nNot required\nDeductible (per calendar year)\n$1,000 Individual\n$2,000 Family\n$2,000 Individual\n$6,000 Family\nUnless otherwise indicated, the deductible must be met before benefits can be paid.\nAll covered expenses accumulate separately toward the network and out-of-network Deductible.\nAs indicated in the plan, member cost sharing for certain services are excluded from the charges to meet the deductible.\nNo one family member may contribute more than the individual deductible amount to the family deductible.\nMember Coinsurance\n(applies to all expenses unless otherwise stated)\n0%\n50%\nOut-of-Pocket (OOP) Maximum\n(per calendar year, includes deductible)\n$4,000 Individual\n$8,000 Family\n$12,000 Individual\n$36,000 Family\nAll covered expenses accumulate separately toward the network and out-of-network Out of Pocket Limit.\nPharmacy expenses apply towards the Out-of-Pocket Maximum .\nOnly those out-of-pocket expenses resulting from the application of coinsurance percentage, deductibles, and copays (except any\npenalty amounts) may be used to satisfy the out-of-pocket maximum.\nNo one family member may contribute more than the individual out-of-pocket maximum amount to the family out-of-pocket\nmaximum.\nPayment for Out-of-Network Care*\nNot applicable\nProfessional: 105% of Medicare\nFacility:  140% of Medicare\nCertification Requirements\nCertification for certain types of out-of-network care must be obtained to avoid a reduction in benefits paid for that care.\nCertification for Hospital Admissions, Treatment Facility Admissions, Convalescent Facility Admissions, Home Health Care and\nHospice Care is required - excluded amount applied separately to each type of expense is $400 per occurrence\nReferral Requirement\nNot Required\nNot applicable\nPHYSICIAN SERVICES\nNETWORK CARE\nOUT-OF-NETWORK CARE\nOffice Visits to Non-Specialist\n$25 copay deductible waived\n50% after deductible\nIncludes services of an internist, general physician, family practitioner or pediatrician for diagnosis and treatment of an illness or\ninjury.\nTelemedicine Consultations to Non-Specialist\n$25 copay deductible waived\n50% after deductible\nVirtual Primary Care Telemedicine Provider\nConsultations\nIncludes basic medical and preventive health care\nservices for persons 18 years of age or older.\nTelemedicine preventive screening and counseling\nservices are subject to the preventive care benefit.\nCovered in full\nNot Covered\nNon-Specialist Telemedicine Provider\nConsultations\nCovered in full\nNot Covered\nSpecialist Office Visits\n$75 copay deductible waived\n50% after deductible\nTelemedicine Consultations to Specialist\n$75 copay deductible waived\n50% after deductible\nSpecialist Telemedicine Provider Consultations\nCovered in full\nNot Covered\nWalk-in Clinics\nDesignated Walk-in Clinics:\nCovered in full\nAll Other Network Providers:\n$25 copay deductible waived\n50% after deductible\nWalk-in clinics are freestanding health care facilities that (a) may be located in or with a pharmacy, drug store, supermarket or\nother retail store; and (b) provide limited medical care and services on a scheduled or unscheduled basis. Urgent care centers,\nemergency rooms, the outpatient department of a hospital, ambulatory surgical centers, and physician offices are not considered\nto be walk-in clinics.\nPrenatal Maternity\nCovered in full\n50% after deductible\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 1\n",
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nMaternity - Delivery  and Post-Partum Care\nCovered in full after deductible\n50% after deductible\nAllergy Testing (given by a physician)\nMember cost sharing is based on\nthe type of service performed and\nthe place rendered.\n50% after deductible\nAllergy Injections (not given by a physician)\nCovered in full after deductible\n50% after deductible\nPREVENTIVE CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE\nPreventive care services are covered in accordance with Health Care Reform.\nRoutine Adult Physical Exams and Immunizations\nLimited to 1 exam every 12 months.\nCovered in full\n50% after deductible\nWell Child Exams and Immunizations\nProvides coverage for 7 exams in the first year of life; 3\nexams in the second year; 3 exams in the third year;\nand 1 exam per 12 months from age 3 to age 22.\nCovered in full\n50% after deductible\nRoutine Gynecological Exams\nIncludes routine tests and related lab fees. Limited to 1\nexam every 12 months.\nCovered in full\n50% after deductible\nRoutine Mammograms\nCovered in full\n50% after deductible\nWomen's Health\nIncludes: Screening for gestational diabetes, HPV\n(Human Papillomavirus) DNA testing, counseling for\nsexually transmitted infections, counseling and\nscreening for Human Immunodeficiency Virus,\nscreening and counseling for interpersonal and\ndomestic violence, breastfeeding support, supplies,\nand counseling. Contraceptive methods, sterilization\nprocedures, patient education and counseling.\nLimitations may apply.\nCovered in full\n50% after deductible\nRoutine Digital Rectal Exam /\nProstate-Specific Antigen Test\nRecommended: For covered males age 40 and over.\nCovered in full\n50% after deductible\nColorectal Cancer Screening\nRecommended: For all members age 45 and over.\nCovered in full\n50% after deductible\nVISION SERVICES\nNETWORK CARE\nOUT-OF-NETWORK CARE\nRoutine Eye Exams (Refraction)\nCoverage is limited to 1 exam every 12 months.\nCovered in full\n50% after deductible\nDIAGNOSTIC PROCEDURES\nNETWORK CARE\nOUT-OF-NETWORK CARE\nDiagnostic Laboratory\nCovered in full after deductible\n50% after deductible\nDiagnostic X-ray (except for Complex Imaging\nServices)\nCovered in full after deductible\n50% after deductible\nDiagnostic X-ray for Complex Imaging Services\n(Including, but not limited to, MRI, MRA, PET and CT\nScans)\nCovered in full after deductible\n50% after deductible\nEMERGENCY MEDICAL CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE\nUrgent Care Provider\n$75 copay deductible waived\n50% after deductible\nNon-Urgent Use of Urgent Care Provider\nNot covered\nNot covered\nEmergency Room\nCopay waived if admitted.\n$500 copay deductible waived\nPaid as in-network\nNon-Emergency Care in an Emergency Room\nNot covered\nNot covered\nEmergency Use of Ambulance\nCovered in full after deductible\nPaid as in-network\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 2\n",
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nNon-Emergency Use of Ambulance\nCovered in full after deductible\nPaid as in-network\nHOSPITAL CARE\nNETWORK CARE\nOUT-OF-NETWORK CARE\nInpatient Coverage\nIncluding maternity (delivery and postpartum care).\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.\nCovered in full after deductible\n50% after deductible\nOutpatient Surgery\nProvided in an outpatient hospital department or\nfreestanding surgical facility.\nCovered in full after deductible\n50% after deductible\nTransplants\nCoverage is limited to IOE facilities only.\nCovered in full after deductible\nNot covered\nBEHAVIORAL HEALTH SERVICES\n(MENTAL HEALTH and SUBSTANCE RELATED\nDISORDERS)\nNETWORK CARE\nOUT-OF-NETWORK CARE\nInpatient Services\n(including inpatient residential treatment facility)\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.\nCovered in full after deductible\n50% after deductible\nOutpatient Office Visits\nThe member cost sharing applies to all covered\nbenefits incurred during a member's outpatient visit.\nCovered in full\n50% after deductible\nPhysician or Behavioral Health Provider\nTelemedicine Consultations\nCovered in full\n50% after deductible\nTelemedicine Provider Consultations\nCovered in full\nNot Covered\nOther Outpatient Services\n(Includes partial hospitalization treatment, intensive\noutpatient program and behavioral therapies.)\nCovered in full after deductible\n50% after deductible\nOTHER SERVICES AND PLAN DETAILS\nNETWORK CARE\nOUT-OF-NETWORK CARE\nSkilled Nursing Facility\nCoverage is limited to 60 days per year.\nThe member cost sharing applies to all covered\nbenefits incurring during a member's inpatient stay\nNetwork and Out-of-Network combined.\nCovered in full after deductible\n50% after deductible\nHome Health Care\nCoverage is limited to 60 visits per year.\nNetwork and Out-of-Network combined; 1 visit equals a\nperiod of 4 hours or less.\nNetwork and Out-of-Network combined.\nCovered in full after deductible\n50% after deductible\nInfusion Therapy\nProvided in the home or physician's office.\nCovered in full after deductible\n50% after deductible\nInfusion Therapy\nProvided in the outpatient hospital department of\nfreestanding facility.\nCovered in full after deductible\n50% after deductible\nGene-Based, Cellular and Other Innovative\nTherapies (GCIT)\nCoverage is limited to GCIT-designated facilities only.\nCost sharing is based on the type of\nservice and where it is performed.\nNot Covered\nInpatient Hospice Care\nThe member cost sharing applies to all covered\nbenefits incurred during a member's inpatient stay.\nCovered in full after deductible\n50% after deductible\nOutpatient Hospice Care\nThe member cost sharing applies to all covered\nbenefits incurred during a member's outpatient visit.\nCovered in full after deductible\n50% after deductible\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 3\n",
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nOutpatient Short-Term Rehabilitation - Physical\nTherapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.\n$75 copayment after deductible\n50% after deductible\nOutpatient Short-Term Rehabilitation -\nOccupational Therapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.\n$75 copayment after deductible\n50% after deductible\nOutpatient Short-Term Rehabilitation - Speech\nTherapy\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.\n$75 copayment after deductible\n50% after deductible\nOutpatient Chiropractic\nCoverage is limited to 60 visits per year\nPT/OT/ST/Chiro combined.\nNetwork and Out-of-Network combined.\n$75 copayment after deductible\n50% after deductible\nHabilitative Physical, Occupational and Speech\nTherapy\nCovered in full after deductible\n50% after deductible\nAutism Behavioral Therapy\nCovered in full\n50% after deductible\nAutism Applied Behavior Analysis\nCovered in full after deductible\n50% after deductible\nAutism Physical, Occupational and Speech\nTherapy\nCovered in full after deductible\n50% after deductible\nAcupuncture\nCoverage is limited to 10 visits per year.\n$25 copay deductible waived\nNot covered\nDurable Medical Equipment\n50% after deductible\n50% after deductible\nDiabetic Supplies not obtainable at a pharmacy\nCovered same as any other medical\nexpense.\nCovered same as any other medical\nexpense.\nMouth, Jaws and Teeth\n(oral surgery procedures, medical in nature)\nCost sharing is based on the type of\nservice and where it is performed.\n50% after deductible\nBariatric Surgery\nNot Covered\nNot Covered\nFAMILY PLANNING\nNETWORK CARE\nOUT-OF-NETWORK CARE\nInfertility Treatment\nCovered only for the diagnosis and treatment of the\nunderlying medical condition.\nCost sharing is based on the type of\nservice and where it is performed.\n50% after deductible\nVasectomy\nMember cost sharing is based on\nthe type of service performed and\nthe place rendered.\n50% after deductible\nTubal Ligation\nCovered in full\n50% after deductible\nPHARMACY DEDUCTIBLE\nNETWORK CARE\nOUT-OF-NETWORK CARE\nPrescription drug calendar year deductible\nNot Applicable under both the\nnetwork care and out-of-network\ncolumns.\nNot Applicable under both the\nnetwork care and out-of-network\ncolumns.\nPHARMACY - PRESCRIPTION\nDRUG BENEFITS\nNETWORK CARE\nOUT-OF-NETWORK CARE\nGeneric Drugs\n                                                                              Retail Generic - T1A: $3 copayment\nGeneric - T1: $10 copayment\n50%\n                                                                      Mail Order Generic - T1A: $6 copayment\nGeneric - T1: $20 copayment\nNot covered\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 4\n",
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nPreferred Brand Drugs\n                                                                             Retail $45 copayment\n50%\n                                                                     Mail Order $90 copayment\nNot covered\nNon-Preferred Generic and Brand Drugs\n                                                                            Retail\n$75 copayment\n50%\n                                                                    Mail Order\n$150 copayment\nNot covered\nSpecialty Drugs\n                                                      Preferred Specialty 20% up to $250\nNot covered\n                                               Non-Preferred Specialty 40% up to $500\nNot covered\nPharmacy Day Supply and Requirements\nRetail\nUp to 30 day supply from the Aetna National Pharmacy Network\nMail Order\n31-90 day supply from CVS Caremark Mail Service Pharmacy\u2122 or a CVS Pharmacy\nMaintenance Choice\u00ae with Opt Out -  After two retail fills, members must choose to fill a 90-day supply of their maintenance\ndrugs at CVS Caremark Mail Service Pharmacy\u2122 or at a CVS retail pharmacy. If the member wants to continue to fill their 30-day\nsupply at any other network pharmacy, they simply need to call us at the number on their member ID card. If they do not notify us\nthat they want to opt out of the 90-day supply at a CVS Pharmacy, they\u2019ll be responsible for 100 percent of their medication cost.\nThe member may call us any time, even from the pharmacy, to let us know that they intend to opt out of the benefit.\nSpecialty- Up to a 30 day supply\nFirst prescription fill at any retail or specialty pharmacy. Subsequent fills must be through the Aetna Specialty Performance\nNetwork.\nTrue Accumulation - Some specialty prescription drugs may qualify for third-party copay assistance programs, like a\nmanufacturer coupon or a rebate. These could lower out-of-pocket costs. Any amount received through one of these programs will\nnot apply towards the Deductible or Out-of-Pocket Maximum.\nChoose Generics with Dispense as Written (DAW) override - The member pays the applicable cost-sharing only if the\nphysician requires brand. If the member requests brand when a generic is available, the member pays the applicable cost-sharing\nplus the cost difference between the generic and brand. The cost difference between the generic and brand does not count toward\nthe Deductible or Out-of-Pocket Maximum.\nPrecertification -  Included. See formulary for details.\nStep Therapy -    Included. See formulary for details.\nPharmacy Plan includes:\nContraceptive drugs and devices obtainable from a pharmacy, Oral fertility drugs, Diabetic supplies.\nAffordable Care Act mandated female contraceptives and preventive medications covered 100% in-network.\nPreventive and seasonal vaccinations covered 100% in-network.\nNot all drugs are covered. It is important to look at the Drug List (Advanced Control Plan - Aetna Formulary) to understand which\ndrugs are covered.\n*How out-of-network care is reimbursed:\nWe cover the cost of services based on whether doctors are \u201cin network\u201d or \u201cout of network.\u201d We want to help members\nunderstand how much Aetna pays for their out-of-network care. At the same time, we want to make it clear how much more\nmembers will need to pay for this \"out-of-network\" care.\nMembers may choose a provider (doctor or hospital) in our network. Members may choose to visit an out-of-network provider. If a\nmember chooses a doctor who is out of network, their Aetna health plan may pay some of that doctor's bill. Most of the time,\nmembers will pay a lot more money out of their own pocket if they choose to use an out-of-network doctor or hospital.\nWhen members choose out-of-network care, Aetna limits the amount it will pay. This limit is called the \"recognized\" or \"allowed\"\namount.\nThe members' doctor sets his or her own rate to charge members. These rates may be higher -- sometimes much higher -- than\nwhat the members' Aetna plan \"recognizes.\" Members' doctors may bill them for the dollar amount that their plan doesn't\n\"recognize.\" Members must also pay any copayments, coinsurance and deductibles under their plan. No dollar amount above the\n\"recognized charge\" counts toward their deductible or out-of-pocket maximums. To learn more about how we pay out-of-network\nbenefits visit Aetna.com. Type \"how Aetna pays\" in the search box.\nMembers can avoid these extra costs by getting their care from Aetna's network of health care providers. Go to www.aetna.com\nand click on \"Find a Doctor\" on the left side of the page. Members can sign on to the Aetna member site.\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 5\n",
+        "AFA CPOSII 1000 100-50 CY V22 (1_1_23)\nAetna Choice\u00ae POS II (Open Access)\nPLAN DESIGN & BENEFITS\nADMINISTERED BY AETNA LIFE INSURANCE COMPANY\nThis applies when members choose to get care out of network. When members have no choice (for example: emergency room\nvisit after a car accident, or for other emergency services), we will pay the bill as if the member got care in network. Members pay\ncost sharing and deductibles for their in-network level of benefits. Members should contact Aetna if their health care provider asks\nthem to pay more. Members are not responsible for any outstanding balance billed by their providers for emergency services\nbeyond their cost sharing and deductibles.\nWhat's Not Covered\nThis plan does not cover all health care expenses and includes exclusions and limitations.  Members should refer to their plan\ndocuments to determine which health care services are covered and to what extent.  The following is a partial list of services and\nsupplies that are generally not covered.  However, your plan documents may contain exceptions to this list based on state\nmandates or the plan design or rider(s) purchased by your employer.\nAll medical or hospital services not specifically covered in, or which are limited or excluded in the plan documents; Charges related\nto any eye surgery mainly to correct refractive errors; Cosmetic surgery, including breast reduction; Custodial care; Dental care\nand X-rays; Donor egg retrieval; Experimental and investigational procedures; Hearing aids; Immunizations for travel or work;\nInfertility services, including, but not limited to, artificial insemination and advanced reproductive technologies such as IVF, ZIFT,\nGIFT, ICSI and other related services, unless specifically listed as covered in your plan documents;\nNonmedically necessary services or supplies; Orthotics; Over-the-counter medications and supplies; Reversal of sterilization;\nServices for the treatment of sexual dysfunction or inadequacies, including therapy, supplies, or counseling; and special duty\nnursing. Weight control services including surgical procedures, medical treatments, weight control/loss programs, dietary regimens\nand supplements, appetite suppressants and other medications; food or food supplements, exercise programs, exercise or other\nequipment; and other services and supplies that are primarily intended to control weight or treat obesity, including Morbid Obesity,\nor for the purpose of weight reduction, regardless of the existence of comorbid conditions.\nThis material is for informational purposes only and is neither an offer of coverage nor medical advice. It contains only a partial,\ngeneral description of plan benefits or programs and does not constitute a contract.\nNot all services are covered. See plan documents for a complete description of benefits, exclusions and limitations of coverage.\nPlan features and availability may vary by location and are subject to change. Providers are independent contractors and are not\nour agents. Provider participation may change without notice. We do not provide care or guarantee access to health services.\nMedications on the Aetna Drug Guide, precertification, step-therapy and quantity limits lists are subject to change.\nAetna, CVS Pharmacy\u00ae and MinuteClinic, LLC (which either operates or provides certain management support services to\nMinuteClinic-branded walk-in clinics) are part of the CVS Health\u00ae family of companies.CVS Caremark\u00ae Mail Service Pharmacy\nand Aetna are part of the CVS Health\u00ae family of companies.\nWhile this information is believed to be accurate as of the print date, it is subject to change. For more information about Aetna\nplans, refer to Aetna.com.\nAetna Funding AdvantageSM plans are self-funded, meaning the benefits coverage is provided by the employer. Plans are\nadministered by Aetna Life Insurance Company.\nVersion: 08/09/2022 [ TPID: 30012727]\nPage 6\n"
+    ]
+}
