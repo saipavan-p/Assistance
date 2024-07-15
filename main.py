@@ -9,8 +9,7 @@ app = FastAPI()
 app.mount("/static", StaticFiles(directory="static"), name="static")
 templates = Jinja2Templates(directory="templates")
 
-# Static values for wa_id and name
-WA_ID = "123"
+u_id = "123"
 NAME = "user"
 
 @app.get("/", response_class=HTMLResponse)
@@ -19,5 +18,5 @@ async def get_form(request: Request):
 
 @app.post("/response", response_class=JSONResponse)
 async def post_form(message_body: str = Form(...)):
-    response = generate_response(message_body, WA_ID, NAME)
+    response = generate_response(message_body, u_id, NAME)
     return JSONResponse(content={"message": response})
