@@ -21,6 +21,10 @@ body {
   margin-bottom: 20px;
 }
 
+#header img {
+  margin-right: 10px;
+}
+
 #header h1 {
   color: #333;
 }
