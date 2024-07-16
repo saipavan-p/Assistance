@@ -43,7 +43,7 @@ def generate_response(message_body, u_id, name):
     return new_message
 
 def run_assistant(thread):
-    assistant = client.beta.assistants.retrieve("asst_Ge8oID2sssQ34EEPWEUBsbHR")
+    assistant = client.beta.assistants.retrieve("asst_zCFalkN9M6uezxZXdSRE6Bv2")
     run = client.beta.threads.runs.create(
         thread_id=thread.id,
         assistant_id=assistant.id,
